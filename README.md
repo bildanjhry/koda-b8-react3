@@ -7,10 +7,10 @@ Tech Stacks:
 - Vite
 - TailwindCss
 
-| Halaman Contact Us ✅   | Halaman Home ✅         |
-|:----------------------  |-------------------------:|
-| ![alt text](image.png)  | ![alt text](image-1.png) |
-|                         |                  
-| List Hasil Form ✅      |
-|                         |
-| ![alt text](image-2.png)|
+| Halaman Contact Us ✅               | Halaman Home ✅                     |
+|:----------------------              |-------------------------------------:|
+| ![alt text](/src/assets/image.png)  | ![alt text](/src/assets/image-1.png) |
+|                                     |                  
+| List Hasil Form ✅                  |
+|                                     |
+| ![alt text](/src/assets/image-2.png)|
